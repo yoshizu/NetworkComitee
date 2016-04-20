@@ -1,4 +1,4 @@
-# Scrpit in Network Comitee
+# Scrpit in Network Students' Union
 ## Use in usual Work
 - mail.py
 - account.sh
